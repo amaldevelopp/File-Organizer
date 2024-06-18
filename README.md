@@ -1,6 +1,6 @@
 ## Organize Your Downloads Folder Efficiently with a File Organizer!
 
-Are you frustrated with a disorganized Downloads folder and ** struggling to find specific files?**  Your solution is here! This Python code sorts your Downloads directory by file extensions, simplifying file management and retrieval.
+Are you frustrated with a disorganized Downloads folder and struggling to find specific files?  __  Your solution is here! __  This Python code sorts your Downloads directory by file extensions, simplifying file management and retrieval.
 
 ### What it Does:
 
